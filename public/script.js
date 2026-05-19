@@ -1,0 +1,1 @@
+console.log('GlowCare website loaded successfully');
